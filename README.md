@@ -21,7 +21,7 @@ If any condition fails, it tells the user exactly why.
 It keeps asking for a new password until a valid one is entered.
 
 
-## 🧪 Example
+## Example
 
 ```
 Enter password: hello
